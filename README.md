@@ -1,6 +1,8 @@
 # ST10443034ChatbotP2
 🛡️ Cybersecurity Awareness Chatbot
 
+[![C# CI](https://github.com/OlugaNels/chatbot-p2/actions/workflows/St10443034P2.yml/badge.svg)](https://github.com/OlugaNels/chatbot-p2/actions/workflows/St10443034P2.yml)
+
 Welcome to the **Cybersecurity Awareness Chatbot** – an interactive console-based C# application designed to educate users about cybersecurity topics in a natural and conversational manner.
 🚀 Features
 
